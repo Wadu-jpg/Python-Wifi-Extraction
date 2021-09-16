@@ -1,2 +1,2 @@
-Pointless? Yes 
-Useful? No 
+Pointless? Yes.
+Useful? No. 
